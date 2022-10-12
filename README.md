@@ -15,8 +15,6 @@
 * [Facebook](https://www.youtube.com/c/Rainmeo)
 * [Github](https://www.youtube.com/c/Rainmeo)
 * [Youtube](https://www.youtube.com/c/Rainmeo)
-* [Plurk](https://www.youtube.com/c/Rainmeo)
-* [Pixiv](https://www.pixiv.net/users/7588919)
 ## 主要技能
 * vue
 * node.js
