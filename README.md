@@ -13,11 +13,11 @@
 目前是畢業待業中，碩士主要研究空中書寫身份識別的領域。
 ## projects
 
-| CipherAirSig(Vue3)                  | [Guardian守護神車禍理賠官網(Vue3)](https://guardian17681.com/)    |
+| [CipherAirSig(Vue3)](https://projects.rainmeocat.com/CipherAirSig/) | [Guardian守護神車禍理賠官網(Vue3)](https://guardian17681.com/)    |
 | ----------------------------------- | ---------------------------------- |
 | ![](https://i.imgur.com/9OR5qmA.png)|![](https://i.imgur.com/vYPcUxV.png)|
 
-| 大安巡禮LINE BOT旅遊踩點服務(Vue2)    | [高科盃全國商業智慧競賽宣傳網頁(Vue3)](https://cpt.ic.nkust.edu.tw/) |
+| 大安巡禮LINE BOT旅遊踩點服務(Vue2)    | [高科盃全國商業智慧競賽宣傳網頁(Vue3)](https://projects.rainmeocat.com/cpt-pet-cats/) |
 | ----------------------------------- | ---------------------------------- |
 | ![](https://i.imgur.com/f0Fuw4c.png)|![](https://i.imgur.com/mEmivR4.png)|
 
