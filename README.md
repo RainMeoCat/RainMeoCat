@@ -29,7 +29,7 @@
 
 
 ## 網站
-* [Blog](https://www.rainmeocat.com/)
+* [Blog](https://blog.rainmeocat.com/)
 * [Facebook](https://www.facebook.com/profile.php?id=100006385098171)
 * [Github](https://github.com/RainMeoCat/)
 * [Youtube](https://www.youtube.com/c/Rainmeo)
