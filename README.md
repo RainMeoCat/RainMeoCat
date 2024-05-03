@@ -13,13 +13,7 @@
 碩士主要研究空中書寫身份識別的領域，目前就業中。
 ## projects
 
-| [CipherAirSig(Vue3)](https://projects.rainmeocat.com/CipherAirSig/) |
-| ----------------------------------- |
-| ![](https://i.imgur.com/9OR5qmA.png)|
-
-| 大安巡禮LINE BOT旅遊踩點服務(Vue2)    |
-| ----------------------------------- |
-| ![](https://i.imgur.com/f0Fuw4c.png)|
+整理中
 
 ## stats
 [![RainMeoCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=RainMeoCat&count_private=true&show_icons=true&locale=zh-tw&theme=vue-dark)](https://github.com/RainMeoCat/github-readme-stats)
