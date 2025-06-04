@@ -1,6 +1,6 @@
 
 # 關於我 About me
-我是**RainMeoCat**，也可以叫我**雷米歐** Lemio
+我是**RainMeoCat**，也可以叫我**雷米歐 Lemio**
 
 喜歡吃吃喝喝玩遊戲 ！
 
