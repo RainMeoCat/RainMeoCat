@@ -1,10 +1,14 @@
 
 # 關於我 About me
-我是**RainMeoCat**，也可以叫我**雷米歐**
+我是**RainMeoCat**，也可以叫我**雷米歐** Lemio
 
 喜歡吃吃喝喝玩遊戲 ！
 
 主要鑽研網頁前端框架vue3，使用vite、typescript、zod、tailwind進行開發，最近學著寫後端了。
+
+後端是Express、typeORM
+
+還有storybook、jest、husky之類的
 
 碩士主要研究空中書寫身份識別的領域，目前就業中。
 ## projects
