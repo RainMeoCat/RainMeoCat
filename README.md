@@ -24,5 +24,4 @@
 
 ## 網站
 * [Blog](https://blog.rainmeocat.com/)
-* [Github](https://github.com/RainMeoCat/)
 
