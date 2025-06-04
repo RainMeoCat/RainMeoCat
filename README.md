@@ -19,7 +19,7 @@
 [![RainMeoCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=RainMeoCat&count_private=true&show_icons=true&locale=zh-tw&theme=vue-dark)](https://github.com/RainMeoCat/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainMeoCat&count_private=true&locale=zh-tw&layout=compact&theme=vue-dark)](https://github.com/RainMeoCat/github-readme-stats)
 ## 技能
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,py,git,vue,ps,pr,ae,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,nodejs,vite,html,css,sass,tailwind,py,git,figma,docker,express,mysql&perline=8)](https://skillicons.dev)
 
 
 ## 網站
