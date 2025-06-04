@@ -1,14 +1,10 @@
 
 # 關於我 About me
-我是**RainMeoCat**，也可以叫我**雷米歐**、雨喵，雨喵是畫畫用的筆名。
+我是**RainMeoCat**，也可以叫我**雷米歐**
 
-喜歡吃吃喝喝，吃拉麵，吃壽司，吃海鮮！
+喜歡吃吃喝喝玩遊戲 ！
 
-主要鑽研網頁前端框架vue，使用vite、typescript、zod、tailwind進行開發，未來也會嘗試學習其他框架。
-
-偶爾很長一段時間會畫一張圖，都是furry、kemono風格，~~歡迎相認~~
-
-經營過一個遊戲頻道，影片剪輯、動畫、特效都是自學的[遊戲WARFRAME，已退坑](https://www.youtube.com/c/Rainmeo)
+主要鑽研網頁前端框架vue3，使用vite、typescript、zod、tailwind進行開發，最近學著寫後端了。
 
 碩士主要研究空中書寫身份識別的領域，目前就業中。
 ## projects
