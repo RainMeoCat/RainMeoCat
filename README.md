@@ -8,7 +8,7 @@
 
 後端是Express、typeORM
 
-還有storybook、jest、husky之類的
+還有storybook、jest、husky之類的工具
 
 碩士主要研究空中書寫身份識別的領域，目前就業中。
 ## projects
